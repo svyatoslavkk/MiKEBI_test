@@ -1,9 +1,9 @@
 <script setup>
-import Buttons from './components/Buttons.vue';
+import Main from './components/Main.vue';
 </script>
 
 <template>
-  <Buttons />
+  <Main />
 </template>
 
 <style scoped>
